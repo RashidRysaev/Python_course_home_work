@@ -9,7 +9,3 @@ time_in_minutes = remainder // 60
 time_in_seconds = remainder % 60
 
 print(f"Результат равен: {time_in_hours}:{time_in_minutes}:{time_in_seconds}")
-
-
-
-
